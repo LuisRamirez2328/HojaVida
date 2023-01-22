@@ -3,13 +3,14 @@ import "../../assets/style/Tecnologia.css"
 function Tecnologia() {
     return ( 
         <div class="Tecnologia">
-            <h3> Todo lo  que he aprendido es: <br></br>
-            Javascript <br></br>
-            Java<br></br>
-            Justinmind<br></br>
-            C++<br></br>
-            Pseint<br></br></h3>
-            <img src={Lenguaje} alt="Lenguajes" width="250" height="250"/>
+            <h1> Todo lo  que he aprendido es: 
+            </h1>
+            <h2>Justinmind</h2>
+            <h2>Pseint</h2>
+            <h2> C++</h2>
+            <h2>Javascript </h2>
+            <h2>Java</h2>
+            <img src={Lenguaje} alt="Lenguajes" width="150" height="150"/>
         </div>
      );
 }

@@ -1,7 +1,6 @@
 .About{
     display: flex;
     flex-direction:column;
-    border: 5px rgb(221, 10, 10) solid;
     justify-content: space-evenly;
     box-sizing: border-box;
 }
