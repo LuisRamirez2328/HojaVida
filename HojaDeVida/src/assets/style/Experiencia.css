@@ -1,0 +1,7 @@
+.Experiencia{
+    display: flex;
+    flex-direction:row;
+    justify-content:flex-start;
+    box-sizing: border-box;
+    
+}
