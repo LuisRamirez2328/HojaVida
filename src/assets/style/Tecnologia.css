@@ -1,7 +1,10 @@
 .Tecnologia{
+    float:left;
     display: flex;
-    flex-direction: row;
-    justify-content: space-around;
+    flex-direction:row;
     box-sizing: border-box;
-      
+    align-content: space-around;   
+padding: 10px;  
+   
+
 }

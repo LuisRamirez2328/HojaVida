@@ -1,7 +1,9 @@
 .Contactos{
+    float: left;
     display: flex;
-    flex-direction:row;
-    justify-content:space-around;
+    flex-direction: column;
+    align-items: flex-start;
     box-sizing: border-box;
-   
+   align-content: space-around;
+   padding: 10px;
 }

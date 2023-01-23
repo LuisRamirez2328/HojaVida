@@ -1,6 +1,8 @@
 .About{
+    float:left;
     display: flex;
-    flex-direction:column;
-    justify-content: space-evenly;
+    flex-direction:row;
     box-sizing: border-box;
+    align-content: space-around;   
+padding: 10px;  
 }
