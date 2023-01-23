@@ -2,10 +2,20 @@ import "../../assets/style/Experiencia.css"
 function Experiencia() {
     return (  
         <div class="Experiencia">
-            <p> Como aun soy estudiante de 4 semestre aun no he mi estancia 1 pero he trabajado como: <br></br>
+            <h3> Como aun soy estudiante de 4 semestre aun no he hecho mi <br></br>
+            estancia 1 pero he trabajado como: <br></br> 
             Mesero<br></br>
             Atencion a cliente <br></br>
-            </p>
+            <br></br>
+            </h3>
+         
+            
+            <h3>Pasatiempos: <br></br>
+    Me gusta entrenar <br></br>
+    Probar deportes nuevos <br></br>
+    Jugar videojuegos <br></br>
+        </h3>
+        
         </div>
     );
 }

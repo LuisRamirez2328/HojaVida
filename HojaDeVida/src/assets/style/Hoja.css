@@ -1,9 +1,9 @@
 header{
+    float:left;
     display: flex;
     flex-direction:row;
-    justify-content:flex-start;
     box-sizing: border-box;
-   
-    
+    align-content: space-around;   
+padding: 10px;    
 }
 
